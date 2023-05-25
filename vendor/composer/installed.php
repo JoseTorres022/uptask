@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'juandelatorre/up-task_mvc',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'josetorres/up-task-equipo3',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'a8ba6949e085092e667b2a038a1ea6cf97abd53c',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'juandelatorre/up-task_mvc' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'josetorres/up-task-equipo3' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'a8ba6949e085092e667b2a038a1ea6cf97abd53c',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
